@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.app {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    background-color: brown;
+    border: 0;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 50%;
+}
